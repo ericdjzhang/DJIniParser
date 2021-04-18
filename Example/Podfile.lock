@@ -1,0 +1,16 @@
+PODS:
+  - DJIniParser (0.1.0)
+
+DEPENDENCIES:
+  - DJIniParser (from `../`)
+
+EXTERNAL SOURCES:
+  DJIniParser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DJIniParser: 53deba4ab8b8b43e41d1089207e189c19674c3b0
+
+PODFILE CHECKSUM: fab7a1815abe485aef301c7e20917487669d7fbe
+
+COCOAPODS: 1.10.1

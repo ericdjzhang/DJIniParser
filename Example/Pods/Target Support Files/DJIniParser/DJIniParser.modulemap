@@ -1,0 +1,6 @@
+framework module DJIniParser {
+  umbrella header "DJIniParser-umbrella.h"
+
+  export *
+  module * { export * }
+}

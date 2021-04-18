@@ -1,0 +1,6 @@
+framework module Pods_IniParserDemo {
+  umbrella header "Pods-IniParserDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

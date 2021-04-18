@@ -1,0 +1,21 @@
+{
+  "name": "DJIniParser",
+  "version": "0.1.0",
+  "summary": "A short description of DJIniParser.",
+  "homepage": "https://github.com/ericdjzhang/DJIniParser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ericdjzhang": "751298862@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ericdjzhang/DJIniParser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DJIniParser/Classes/**/*"
+}
